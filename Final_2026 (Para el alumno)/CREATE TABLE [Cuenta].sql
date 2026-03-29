@@ -1,0 +1,28 @@
+IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = N'CuentaBancariaDB')
+BEGIN
+    CREATE DATABASE [CuentaBancariaDB]
+END
+GO
+
+USE [CuentaBancariaDB]
+GO
+
+/****** Object:  Table [dbo].[Cuenta]    Script Date: 10/03/2026 12:43:06 p. m. ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Cuenta](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Titular] [varchar](100) NOT NULL,
+	[Saldo] [money] NOT NULL,
+ CONSTRAINT [PK_Cuenta] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+

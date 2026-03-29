@@ -1,0 +1,8 @@
+Final OOP
+
+PARA ENTREGAR:
+Dir. de correo: Horacio.tore@istea.com.ar
+Tema: Final OOP
+Archivo adjunto: “CuentaAhorro.cs” (sin comprimir, sin renombrar, adjuntar
+tal como está)
+Hora inicial de entrega: 20:00
