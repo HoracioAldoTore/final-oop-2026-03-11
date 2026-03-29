@@ -5,3 +5,4 @@ Los principales directorios son:
 Contiene la versión que el docente entregara al alumno para que resuelva. Incluye los tests automatizados.
 ## “Final_2026 (Solucion)”: 
 Contiene la versión con el código solución, que el docente entregara al alumno luego de la finalización del examen. Incluye los tests automatizados, que ahora darán todos verdes.
+## “CREATE TABLE [Cuenta].sql”: Este archivo contiene el script de T-SQL responsable de la creación de la base de datos, que el alumno debe ejecutar debido a que la aplicación depende de la misma.
