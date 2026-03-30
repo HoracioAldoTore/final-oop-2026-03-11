@@ -8,6 +8,6 @@ Contiene la versión con el código solución, que el docente entregara al alumn
 * ### “CREATE TABLE [Cuenta].sql”: 
 Este archivo contiene el script de **T-SQL** responsable de la creación de la base de datos, que el alumno debe ejecutar debido a que la aplicación depende de la misma.
 
-<img src="Final_2026 (Para el alumno)/DER.png" width="500">
+<img src="Final_2026 (Para el alumno)/DER.png" width="90%">
 
 <img src="Final_2026 (Para el alumno)/Diagrama de clases.png" width="500">
