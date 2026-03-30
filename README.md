@@ -7,5 +7,5 @@ Contiene la versión que el docente entregara al alumno para que resuelva. Inclu
 Contiene la versión con el código solución, que el docente entregara al alumno luego de la finalización del examen. Incluye los tests automatizados, que ahora darán todos verdes.
 * ### “CREATE TABLE [Cuenta].sql”: 
 Este archivo contiene el script de **T-SQL** responsable de la creación de la base de datos, que el alumno debe ejecutar debido a que la aplicación depende de la misma.
-<img src="Final_2026 (Para el alumno)/DER.png" width="90%">
-<img src="Final_2026 (Para el alumno)/Diagrama de clases.png" width="90%">
+<img src="Final_2026 (Para el alumno)/DER.png" width="95%">
+<img src="Final_2026 (Para el alumno)/Diagrama de clases.png" width="95%">
